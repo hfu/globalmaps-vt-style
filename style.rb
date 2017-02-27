@@ -10,7 +10,7 @@ template = {
       :tiles => ['https://globalmaps-vt.github.io/gmjp22vt/{z}/{x}/{y}.mvt'],
       :minzoom => 0,
       :maxzoom => 8,
-      :attribution => 'Geospatial Information Authority of Japan'
+      :attribution => 'Global Map Japan by Geospatial Information Authority of Japan'
     }
   },
   :layers => [
