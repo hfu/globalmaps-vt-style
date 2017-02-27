@@ -1,0 +1,1456 @@
+{
+  "list": [
+    {
+      "id": "gmaf20vt",
+      "country": "Afghanistan",
+      "version": 2.0,
+      "ngia": "AGCHO",
+      "center": [
+        69.609375,
+        34.883907,
+        8.0
+      ]
+    },
+    {
+      "id": "gmal20vt",
+      "country": "Albania",
+      "version": 2.0,
+      "ngia": "State Authority for Geospatial Information (ASIG)",
+      "center": [
+        20.390625,
+        40.444817,
+        8.0
+      ]
+    },
+    {
+      "id": "gmaq10vt",
+      "country": "Antarctica",
+      "version": 1.0,
+      "ngia": "SCAR",
+      "center": [
+        -62.578125,
+        -64.471116,
+        8.0
+      ]
+    },
+    {
+      "id": "gmar10vt",
+      "country": "Argentina",
+      "version": 1.0,
+      "ngia": "Instituto Geografico Militar de Argentina",
+      "center": [
+        -59.765625,
+        -52.050398,
+        8.0
+      ]
+    },
+    {
+      "id": "gmau10vt",
+      "country": "Australia",
+      "version": 1.0,
+      "ngia": "Geoscience Australia",
+      "center": [
+        124.453125,
+        -15.960188,
+        8.0
+      ]
+    },
+    {
+      "id": "gmaz10vt",
+      "country": "Azerbaijan",
+      "version": 1.0,
+      "ngia": "State Committee Land and Cartography",
+      "center": [
+        47.109375,
+        40.444817,
+        8.0
+      ]
+    },
+    {
+      "id": "gmaz20vt",
+      "country": "Azerbaijan",
+      "version": 2.0,
+      "ngia": "State Committee Land and Cartography",
+      "center": [
+        47.109375,
+        40.444817,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbd10vt",
+      "country": "Bangladesh",
+      "version": 1.0,
+      "ngia": "Survey of Bangladesh",
+      "center": [
+        90.703125,
+        23.88424,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbd11vt",
+      "country": "Bangladesh",
+      "version": 1.1,
+      "ngia": "Survey of Bangladesh",
+      "center": [
+        90.703125,
+        23.88424,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbd20vt",
+      "country": "Bangladesh",
+      "version": 2.0,
+      "ngia": "Survey of Bangladesh",
+      "center": [
+        90.703125,
+        22.592196,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbf10vt",
+      "country": "Burkina Faso",
+      "version": 1.0,
+      "ngia": "Institut Geographique du Burkina",
+      "center": [
+        -2.109375,
+        13.238984,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbf20vt",
+      "country": "Burkina Faso",
+      "version": 2.0,
+      "ngia": "Institut Geographique du Burkina",
+      "center": [
+        -0.703125,
+        11.866483,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbg10vt",
+      "country": "Bulgaria",
+      "version": 1.0,
+      "ngia": "The Agency by Geodesy, Cartography and Cadastre",
+      "center": [
+        23.203125,
+        42.550931,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbh10vt",
+      "country": "Bahrain",
+      "version": 1.0,
+      "ngia": "Survey and Land Registration Bureau, Topography Survey Directorate",
+      "center": [
+        50.315269,
+        26.422892,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbh20vt",
+      "country": "Bahrain",
+      "version": 2.0,
+      "ngia": "Survey and Land Registration Bureau, Topography Survey Directorate",
+      "center": [
+        50.312992,
+        26.422892,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbn10vt",
+      "country": "Brunei",
+      "version": 1.0,
+      "ngia": "Survey Department, Ministry of Development",
+      "center": [
+        114.609375,
+        4.915464,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbn20vt",
+      "country": "Brunei",
+      "version": 2.0,
+      "ngia": "Survey Department, Ministry of Development",
+      "center": [
+        114.609375,
+        4.915464,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbr10vt",
+      "country": "Brazil",
+      "version": 1.0,
+      "ngia": "IBGE",
+      "center": [
+        -58.359375,
+        -3.513157,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbt10vt",
+      "country": "Bhutan",
+      "version": 1.0,
+      "ngia": "National Land Commission Secretariat (NLCS)",
+      "center": [
+        90.703125,
+        27.681753,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbt20vt",
+      "country": "Bhutan",
+      "version": 2.0,
+      "ngia": "National Land Commission Secretariat (NLCS)",
+      "center": [
+        90.703125,
+        27.681753,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbw10vt",
+      "country": "Botswana",
+      "version": 1.0,
+      "ngia": "Surveys and Mapping, Ministry Lands and Housing",
+      "center": [
+        27.421875,
+        -21.287915,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbw20vt",
+      "country": "Botswana",
+      "version": 2.0,
+      "ngia": "Surveys and Mapping, Ministry Lands and Housing",
+      "center": [
+        27.421875,
+        -21.287915,
+        8.0
+      ]
+    },
+    {
+      "id": "gmbz10vt",
+      "country": "Belize",
+      "version": 1.0,
+      "ngia": "Lands and Surveys Department, Ministry of Natural Resourves and Environment",
+      "center": [
+        -87.890625,
+        17.307462,
+        8.0
+      ]
+    },
+    {
+      "id": "gmcd10vt",
+      "country": "Democratic Republic of Congo",
+      "version": 1.0,
+      "ngia": "Geographic Institute of Congo",
+      "center": [
+        23.203125,
+        -6.314827,
+        8.0
+      ]
+    },
+    {
+      "id": "gmcg10vt",
+      "country": "Congo",
+      "version": 1.0,
+      "ngia": "Centre de Recherche Geographique et de Production Cartographique (CERGEC)",
+      "center": [
+        13.359375,
+        -3.513157,
+        8.0
+      ]
+    },
+    {
+      "id": "gmcg20vt",
+      "country": "Congo",
+      "version": 2.0,
+      "ngia": "Centre de Recherche Geographique et de Production Cartographique (CERGEC)",
+      "center": [
+        13.359375,
+        -3.513157,
+        8.0
+      ]
+    },
+    {
+      "id": "gmci20vt",
+      "country": "Cote d'Ivoire",
+      "version": 2.0,
+      "ngia": "CCT/BNETD",
+      "center": [
+        -4.921875,
+        6.314827,
+        8.0
+      ]
+    },
+    {
+      "id": "gmcl10vt",
+      "country": "Chile",
+      "version": 1.0,
+      "ngia": "Instituto Geografico Militar de Chile",
+      "center": [
+        -72.421875,
+        -37.15824,
+        8.0
+      ]
+    },
+    {
+      "id": "gmco10vt",
+      "country": "Colombia",
+      "version": 1.0,
+      "ngia": "Agustin Codazzi, Geographic Institute (IGAC)",
+      "center": [
+        -75.234375,
+        9.101423,
+        8.0
+      ]
+    },
+    {
+      "id": "gmcu10vt",
+      "country": "Cuba",
+      "version": 1.0,
+      "ngia": "Oficional Nacional de Hidrografia y Geodesia (ONHG)",
+      "center": [
+        -75.234375,
+        19.971964,
+        8.0
+      ]
+    },
+    {
+      "id": "gmcu20vt",
+      "country": "Cuba",
+      "version": 2.0,
+      "ngia": "Oficional Nacional de Hidrografia y Geodesia (ONHG)",
+      "center": [
+        -75.234375,
+        19.971964,
+        8.0
+      ]
+    },
+    {
+      "id": "gmdm10vt",
+      "country": "Dominica",
+      "version": 1.0,
+      "ngia": "Lands and Surveys Division",
+      "center": [
+        -61.240429,
+        15.64078,
+        8.0
+      ]
+    },
+    {
+      "id": "gmdm20vt",
+      "country": "Dominica",
+      "version": 2.0,
+      "ngia": "Lands and Surveys Division",
+      "center": [
+        -61.240429,
+        15.64078,
+        8.0
+      ]
+    },
+    {
+      "id": "gmdz10vt",
+      "country": "Algeria",
+      "version": 1.0,
+      "ngia": "National Institute of Cartography and Remote Sensing",
+      "center": [
+        2.109375,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmdz20vt",
+      "country": "Algeria",
+      "version": 2.0,
+      "ngia": "National Institute of Cartography and Remote Sensing",
+      "center": [
+        2.109375,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmet10vt",
+      "country": "Ethiopia",
+      "version": 1.0,
+      "ngia": "Ethiopian Mapping Agency (EMA)",
+      "center": [
+        38.671875,
+        9.101423,
+        8.0
+      ]
+    },
+    {
+      "id": "gmet20vt",
+      "country": "Ethiopia",
+      "version": 2.0,
+      "ngia": "Ethiopian Mapping Agency (EMA)",
+      "center": [
+        38.671875,
+        9.101423,
+        8.0
+      ]
+    },
+    {
+      "id": "gmeu80vt",
+      "country": "eu",
+      "version": 8.0,
+      "ngia": "TBD",
+      "center": [
+        28.828125,
+        61.93716,
+        8.0
+      ]
+    },
+    {
+      "id": "gmge10vt",
+      "country": "ge",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        42.890625,
+        42.550931,
+        8.0
+      ]
+    },
+    {
+      "id": "gmge20vt",
+      "country": "ge",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        42.890625,
+        42.550931,
+        8.0
+      ]
+    },
+    {
+      "id": "gmgh10vt",
+      "country": "gh",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -2.109375,
+        6.314827,
+        8.0
+      ]
+    },
+    {
+      "id": "gmgt10vt",
+      "country": "gt",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -90.703125,
+        14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmgw10vt",
+      "country": "gw",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -14.765625,
+        11.866483,
+        8.0
+      ]
+    },
+    {
+      "id": "gmgw20vt",
+      "country": "gw",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -14.765625,
+        11.866483,
+        8.0
+      ]
+    },
+    {
+      "id": "gmhk10vt",
+      "country": "hk",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        114.502443,
+        22.56833,
+        8.0
+      ]
+    },
+    {
+      "id": "gmhn10vt",
+      "country": "hn",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -87.890625,
+        14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmhn20vt",
+      "country": "hn",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -87.890625,
+        14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmid10vt",
+      "country": "id",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        111.796875,
+        -7.710418,
+        8.0
+      ]
+    },
+    {
+      "id": "gmin10vt",
+      "country": "in",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        86.484375,
+        25.163513,
+        8.0
+      ]
+    },
+    {
+      "id": "gmin20vt",
+      "country": "in",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        86.484375,
+        25.163513,
+        8.0
+      ]
+    },
+    {
+      "id": "gmir10vt",
+      "country": "ir",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        51.328125,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmir20vt",
+      "country": "ir",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        51.328125,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmjo10vt",
+      "country": "jo",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        35.859375,
+        32.544857,
+        8.0
+      ]
+    },
+    {
+      "id": "gmjo20vt",
+      "country": "jo",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        35.859375,
+        32.544857,
+        8.0
+      ]
+    },
+    {
+      "id": "gmjp20vt",
+      "country": "jp",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        139.921875,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmjp21vt",
+      "country": "jp",
+      "version": 2.1,
+      "ngia": "TBD",
+      "center": [
+        139.921875,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmjp22vt",
+      "country": "jp",
+      "version": 2.2,
+      "ngia": "TBD",
+      "center": [
+        139.921875,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmke10vt",
+      "country": "ke",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        37.265625,
+        -0.703054,
+        8.0
+      ]
+    },
+    {
+      "id": "gmkg10vt",
+      "country": "kg",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        73.828125,
+        40.444817,
+        8.0
+      ]
+    },
+    {
+      "id": "gmkg20vt",
+      "country": "kg",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        73.828125,
+        40.444817,
+        8.0
+      ]
+    },
+    {
+      "id": "gmkz10vt",
+      "country": "kz",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        76.640625,
+        43.578236,
+        8.0
+      ]
+    },
+    {
+      "id": "gmla10vt",
+      "country": "la",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        106.171875,
+        14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmla20vt",
+      "country": "la",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        104.765625,
+        18.644938,
+        8.0
+      ]
+    },
+    {
+      "id": "gmlb10vt",
+      "country": "lb",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        35.859375,
+        33.722348,
+        8.0
+      ]
+    },
+    {
+      "id": "gmlb20vt",
+      "country": "lb",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        35.859375,
+        33.722348,
+        8.0
+      ]
+    },
+    {
+      "id": "gmlc10vt",
+      "country": "lc",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -61.078953,
+        13.701385,
+        8.0
+      ]
+    },
+    {
+      "id": "gmlk10vt",
+      "country": "lk",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        80.859375,
+        7.710418,
+        8.0
+      ]
+    },
+    {
+      "id": "gmlk20vt",
+      "country": "lk",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        80.859375,
+        7.710418,
+        8.0
+      ]
+    },
+    {
+      "id": "gmlv10vt",
+      "country": "lv",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        27.421875,
+        56.168028,
+        8.0
+      ]
+    },
+    {
+      "id": "gmlv20vt",
+      "country": "lv",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        27.421875,
+        56.168028,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmd10vt",
+      "country": "md",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        28.828125,
+        47.515052,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmk10vt",
+      "country": "mk",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        21.796875,
+        41.506436,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmk20vt",
+      "country": "mk",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        21.796875,
+        41.506436,
+        8.0
+      ]
+    },
+    {
+      "id": "gmml20vt",
+      "country": "ml",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -10.546875,
+        14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmm10vt",
+      "country": "mm",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        93.515625,
+        19.971964,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmn10vt",
+      "country": "mn",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        99.140625,
+        51.177236,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmn20vt",
+      "country": "mn",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        99.140625,
+        51.177236,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmu10vt",
+      "country": "mu",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        57.299152,
+        -19.978117,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmx10vt",
+      "country": "mx",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -99.140625,
+        19.971964,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmy10vt",
+      "country": "my",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        101.953125,
+        3.513157,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmy20vt",
+      "country": "my",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        101.953125,
+        3.513157,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmz10vt",
+      "country": "mz",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        37.265625,
+        -14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmmz20vt",
+      "country": "mz",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        37.265625,
+        -14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmne10vt",
+      "country": "ne",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        2.109375,
+        13.238984,
+        8.0
+      ]
+    },
+    {
+      "id": "gmne20vt",
+      "country": "ne",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        2.109375,
+        13.238984,
+        8.0
+      ]
+    },
+    {
+      "id": "gmni10vt",
+      "country": "ni",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -85.078125,
+        11.866483,
+        8.0
+      ]
+    },
+    {
+      "id": "gmni20vt",
+      "country": "ni",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -85.078125,
+        11.866483,
+        8.0
+      ]
+    },
+    {
+      "id": "gmnp10vt",
+      "country": "np",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        85.078125,
+        27.681753,
+        8.0
+      ]
+    },
+    {
+      "id": "gmnp20vt",
+      "country": "np",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        85.078125,
+        27.681753,
+        8.0
+      ]
+    },
+    {
+      "id": "gmnz10vt",
+      "country": "nz",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        175.078125,
+        -37.15824,
+        8.0
+      ]
+    },
+    {
+      "id": "gmnz20vt",
+      "country": "nz",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        175.078125,
+        -37.15824,
+        8.0
+      ]
+    },
+    {
+      "id": "gmom10vt",
+      "country": "om",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        54.140625,
+        17.307462,
+        8.0
+      ]
+    },
+    {
+      "id": "gmom20vt",
+      "country": "om",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        54.140625,
+        17.307462,
+        8.0
+      ]
+    },
+    {
+      "id": "gmpa10vt",
+      "country": "pa",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -80.859375,
+        7.710418,
+        8.0
+      ]
+    },
+    {
+      "id": "gmpg10vt",
+      "country": "pg",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        146.953125,
+        -9.101423,
+        8.0
+      ]
+    },
+    {
+      "id": "gmpg20vt",
+      "country": "pg",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        146.953125,
+        -9.101423,
+        8.0
+      ]
+    },
+    {
+      "id": "gmph10vt",
+      "country": "ph",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        124.453125,
+        7.710418,
+        8.0
+      ]
+    },
+    {
+      "id": "gmpk10vt",
+      "country": "pk",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        66.796875,
+        26.429508,
+        8.0
+      ]
+    },
+    {
+      "id": "gmpk20vt",
+      "country": "pk",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        71.015625,
+        32.544857,
+        8.0
+      ]
+    },
+    {
+      "id": "gmps10vt",
+      "country": "ps",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        34.453125,
+        31.35172,
+        8.0
+      ]
+    },
+    {
+      "id": "gmro10vt",
+      "country": "ro",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        26.015625,
+        44.58831,
+        8.0
+      ]
+    },
+    {
+      "id": "gmro20vt",
+      "country": "ro",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        26.015625,
+        44.58831,
+        8.0
+      ]
+    },
+    {
+      "id": "gmrs20vt",
+      "country": "rs",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        20.390625,
+        44.58831,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsa10vt",
+      "country": "sa",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        40.078125,
+        22.592196,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsa20vt",
+      "country": "sa",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        40.078125,
+        22.592196,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsainthelena20vt",
+      "country": "sainthelena",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -5.789838,
+        -15.960188,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsd10vt",
+      "country": "sd",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        33.046875,
+        14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsg10vt",
+      "country": "sg",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        103.605781,
+        1.16632,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsn10vt",
+      "country": "sn",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -13.359375,
+        13.238984,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsn20vt",
+      "country": "sn",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -13.359375,
+        13.238984,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsv20vt",
+      "country": "sv",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -89.296875,
+        13.238984,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsy10vt",
+      "country": "sy",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        37.265625,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsz10vt",
+      "country": "sz",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        31.640625,
+        -26.429508,
+        8.0
+      ]
+    },
+    {
+      "id": "gmsz20vt",
+      "country": "sz",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        31.640625,
+        -26.429508,
+        8.0
+      ]
+    },
+    {
+      "id": "gmtg20vt",
+      "country": "tg",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        0.703125,
+        9.101423,
+        8.0
+      ]
+    },
+    {
+      "id": "gmth10vt",
+      "country": "th",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        100.546875,
+        14.603795,
+        8.0
+      ]
+    },
+    {
+      "id": "gmtn10vt",
+      "country": "tn",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        9.140625,
+        36.02928,
+        8.0
+      ]
+    },
+    {
+      "id": "gmtristandacunha10vt",
+      "country": "tristandacunha",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -11.953125,
+        -37.15824,
+        8.0
+      ]
+    },
+    {
+      "id": "gmus10vt",
+      "country": "us",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -76.640625,
+        39.366164,
+        8.0
+      ]
+    },
+    {
+      "id": "gmus20vt",
+      "country": "us",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -80.859375,
+        32.544857,
+        8.0
+      ]
+    },
+    {
+      "id": "gmuy10vt",
+      "country": "uy",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -56.953125,
+        -32.544857,
+        8.0
+      ]
+    },
+    {
+      "id": "gmuy20vt",
+      "country": "uy",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -54.140625,
+        -33.722348,
+        8.0
+      ]
+    },
+    {
+      "id": "gmvc10vt",
+      "country": "vc",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -61.171875,
+        13.238984,
+        8.0
+      ]
+    },
+    {
+      "id": "gmvc20vt",
+      "country": "vc",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        -61.171875,
+        13.238984,
+        8.0
+      ]
+    },
+    {
+      "id": "gmvn10vt",
+      "country": "vn",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        106.171875,
+        21.287915,
+        8.0
+      ]
+    },
+    {
+      "id": "gmvn20vt",
+      "country": "vn",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        106.171875,
+        21.287915,
+        8.0
+      ]
+    },
+    {
+      "id": "gmws10vt",
+      "country": "ws",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        -172.265625,
+        -13.438966,
+        8.0
+      ]
+    },
+    {
+      "id": "gmxk20vt",
+      "country": "xk",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        20.390625,
+        42.550931,
+        8.0
+      ]
+    },
+    {
+      "id": "gmza10vt",
+      "country": "za",
+      "version": 1.0,
+      "ngia": "TBD",
+      "center": [
+        28.828125,
+        -26.429508,
+        8.0
+      ]
+    },
+    {
+      "id": "gmza20vt",
+      "country": "za",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        28.828125,
+        -26.429508,
+        8.0
+      ]
+    },
+    {
+      "id": "gmzanzibar20vt",
+      "country": "zanzibar",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        39.876091,
+        -4.915464,
+        8.0
+      ]
+    },
+    {
+      "id": "gmzm20vt",
+      "country": "zm",
+      "version": 2.0,
+      "ngia": "TBD",
+      "center": [
+        31.640625,
+        -13.238984,
+        8.0
+      ]
+    }
+  ]
+}

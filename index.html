@@ -2,26 +2,23 @@
 <html>
 <head>
 <meta charset='utf-8' />
-<title>Binary vector tiles</title>
-<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.js'></script>
-<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.css' rel='stylesheet' />
-<link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
+<title>Global Maps in binary bector tiles</title>
 <style>
-body { margin:0; padding:0; }
-#map { position:absolute; top:0; bottom:0; width:100%; }
+body {
+  margin:0; padding:0;
+}
+iframe {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%; border: 0;
+}
 </style>
 </head>
 <body>
-<div id='map'></div>
-<script>
-map = new mapboxgl.Map({
-  container: 'map', style: 'style.json',
-  center: [135,35], zoom: 7.36, hash: true, maxZoom: 19
-});
-map.on('load', function () {
-
-});
-</script>
+<div style='position: absolute; width: 16%; height: 100%'>
+  <iframe name='left' src='left.html'></iframe>
+</div>
+<div style='position: absolute; right: 0px; width: 84%; height: 100%'>
+  <iframe name='right' src='gmdz20vt.html'></iframe>
+</div>
 </body>
 </html>
