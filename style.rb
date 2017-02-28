@@ -150,7 +150,7 @@ a:link {color: #fff}
 a:visited {color: #aaa}
 </style>
 </head>
-<body><span style="color: #0ff">Global Maps</span>
+<body><span style="color: #0ff">Global Maps</span><a target="_blank"  href="https://github.com/hfu/globalmaps-vt-style/">↘︎</a>
   EOS
   JSON::parse(File.read('list.json'))['list'].each {|r|
     create(r)
