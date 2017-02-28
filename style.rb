@@ -154,7 +154,7 @@ a:visited {color: #aaa}
   EOS
   JSON::parse(File.read('list.json'))['list'].each {|r|
     create(r)
-    w.print "<a target='right' href='#{r['id']}.html'>#{r['country']} #{r['version']}</a>\n"
+    w.print "<a title='open in the right frame' target='right' href='#{r['id']}.html'>#{r['country']} #{r['version']}</a><a title='open in another tab' target='_blank' href='#{r['id']}.html'>↗︎</a><a title='open the Global Map archives repository' target='_blank'  href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}'>↘︎</a><a title='download Shapefile data from the Global Map Archives' target='_blank' href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}/archive/master.zip'>↓</a>\n"
   }
   w.print <<-EOS
 </body>

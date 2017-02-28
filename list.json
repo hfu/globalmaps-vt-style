@@ -409,9 +409,9 @@
     },
     {
       "id": "gmeu80vt",
-      "country": "eu",
+      "country": "Europe",
       "version": 8.0,
-      "ngia": "TBD",
+      "ngia": "EuroGeographics",
       "center": [
         28.828125,
         61.93716,
@@ -420,9 +420,9 @@
     },
     {
       "id": "gmge10vt",
-      "country": "ge",
+      "country": "Georgia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "National Agency for Public Registry (NAPR) under the Ministry of Justice",
       "center": [
         42.890625,
         42.550931,
@@ -431,9 +431,9 @@
     },
     {
       "id": "gmge20vt",
-      "country": "ge",
+      "country": "Georgia",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "National Agency for Public Registry (NAPR) under the Ministry of Justice",
       "center": [
         42.890625,
         42.550931,
@@ -442,9 +442,9 @@
     },
     {
       "id": "gmgh10vt",
-      "country": "gh",
+      "country": "Ghana",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Survey Department of Ghana",
       "center": [
         -2.109375,
         6.314827,
@@ -453,9 +453,9 @@
     },
     {
       "id": "gmgt10vt",
-      "country": "gt",
+      "country": "Guatemala",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Instituto Geografico Nacional, Ing. Alfredo Obiols Gomez",
       "center": [
         -90.703125,
         14.603795,
@@ -464,9 +464,9 @@
     },
     {
       "id": "gmgw10vt",
-      "country": "gw",
+      "country": "Guinea Bissau",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Direccao Geral de Geografia c Cadastro",
       "center": [
         -14.765625,
         11.866483,
@@ -475,9 +475,9 @@
     },
     {
       "id": "gmgw20vt",
-      "country": "gw",
+      "country": "Guinea Bissau",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Direccao Geral de Geografia c Cadastro",
       "center": [
         -14.765625,
         11.866483,
@@ -486,9 +486,9 @@
     },
     {
       "id": "gmhk10vt",
-      "country": "hk",
+      "country": "Hong Kong",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Lands Department, the Government of the Hong Kong SAR",
       "center": [
         114.502443,
         22.56833,
@@ -497,9 +497,9 @@
     },
     {
       "id": "gmhn10vt",
-      "country": "hn",
+      "country": "Honduras",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Direccion General de Catastro y Geografia, General Direction for Cadastre and Geography",
       "center": [
         -87.890625,
         14.603795,
@@ -508,9 +508,9 @@
     },
     {
       "id": "gmhn20vt",
-      "country": "hn",
+      "country": "Honduras",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Direccion General de Catastro y Geografia, General Direction for Cadastre and Geography",
       "center": [
         -87.890625,
         14.603795,
@@ -519,9 +519,9 @@
     },
     {
       "id": "gmid10vt",
-      "country": "id",
+      "country": "Indonesia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Geospatial Information Agency",
       "center": [
         111.796875,
         -7.710418,
