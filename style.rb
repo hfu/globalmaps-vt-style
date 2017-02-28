@@ -150,11 +150,11 @@ a:link {color: #fff}
 a:visited {color: #aaa}
 </style>
 </head>
-<body><span style="color: #0ff">Global Maps</span><a target="_blank"  href="https://github.com/hfu/globalmaps-vt-style/">↘︎</a>
+<body><span style="color: #0ff">Global Maps</span><a target="_blank"  href="https://github.com/hfu/globalmaps-vt-style/">🏭</a>
   EOS
   JSON::parse(File.read('list.json'))['list'].each {|r|
     create(r)
-    w.print "<a title='open in the right frame' target='right' href='#{r['id']}.html'>#{r['country']} #{r['version']}</a><a title='open in another tab' target='_blank' href='#{r['id']}.html'>↗︎</a><a title='open the Global Map archives repository' target='_blank'  href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}'>↘︎</a><a title='download Shapefile data from the Global Map Archives' target='_blank' href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}/archive/master.zip'>↓</a>\n"
+    w.print "<a title='open in the right frame' target='right' href='#{r['id']}.html'>#{r['country']} #{r['version']}</a><a title='open in another tab' target='_blank' href='#{r['id']}.html'>🗺</a><a title='open the Global Map archives repository' target='_blank'  href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}'>🏭</a><a title='open issues' target='_blank'  href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}/issues'>ℹ️</a><a title='download Shapefile data from the Global Map Archives' target='_blank' href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}/archive/master.zip'>📦</a>\n"
   }
   w.print <<-EOS
 </body>
