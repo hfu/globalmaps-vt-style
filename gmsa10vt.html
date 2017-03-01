@@ -10,9 +10,25 @@
 <style>
 body { margin:0; padding:0; }
 #map { position:absolute; top:0; bottom:0; width:100%; }
+.map-overlay {
+  z-index: 20;
+  font: 12px/20px sans-serif;
+  position: absolute; width: 40%; top: 0; left: 0; padding: 10px
+}
+.map-overlay .map-overlay-inner {
+  background-color: #fff; border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  padding: 10px; margin-bottom: 10px;
+}
 </style>
 </head>
 <body>
+<div class='map-overlay top'>
+  <div class='map-overlay-inner'>
+    Global Map sa 1.0<br/>
+    <a title='open in another tab' target='_blank' href='gmsa10vt.html'>new tab</a>/<a title='open issues (vt)' target='_blank'  href='http://github.com/globalmaps-vt/gmsa10vt/issues'>issues</a>/<a title='download Shapefile data from the Global Map Archives' target='_blank' href='http://github.com/globalmaps/gmsa10/archive/master.zip'>zip</a>
+  </div>
+</div>
 <div id='map'></div>
 <script>
 map = new mapboxgl.Map({

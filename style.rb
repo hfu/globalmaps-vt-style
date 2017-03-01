@@ -14,7 +14,15 @@ def create(params)
         :attribution => "Global Map #{params['country']} #{params['version']} by #{params['ngia']}"
       }
     },
-    :layers => []
+    :layers => [
+      {
+        :id => 'background',
+        :type => 'background',
+        :paint => {
+          'background-color' => '#eef'
+        }
+      }
+    ]
   }
   [ # re-ordered for drawing
     %w{XX501 #ff0 0.1}, # landmask area
@@ -123,9 +131,25 @@ def create(params)
 <style>
 body { margin:0; padding:0; }
 #map { position:absolute; top:0; bottom:0; width:100%; }
+.map-overlay {
+  z-index: 20;
+  font: 12px/20px sans-serif;
+  position: absolute; width: 40%; top: 0; left: 0; padding: 10px
+}
+.map-overlay .map-overlay-inner {
+  background-color: #fff; border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  padding: 10px; margin-bottom: 10px;
+}
 </style>
 </head>
 <body>
+<div class='map-overlay top'>
+  <div class='map-overlay-inner'>
+    Global Map #{params['country']} #{params['version']}<br/>
+    <a title='open in another tab' target='_blank' href='#{params['id']}.html'>new tab</a>/<a title='open issues (vt)' target='_blank'  href='http://github.com/globalmaps-vt/#{params['id']}/issues'>issues</a>/<a title='download Shapefile data from the Global Map Archives' target='_blank' href='http://github.com/globalmaps/#{params['id'].sub(/vt$/, '')}/archive/master.zip'>zip</a>
+  </div>
+</div>
 <div id='map'></div>
 <script>
 map = new mapboxgl.Map({
@@ -145,19 +169,23 @@ File.open('left.html', 'w') {|w|
 <html>
 <head>
 <style>
-body {background-color: #3f4347; font-family: sans-serif; white-space: pre}
-a:link {color: #fff}
-a:visited {color: #aaa}
+body {
+  //background-color: #3f4347;
+  font: 12px/20px sans-serif;
+}
+a:link {color: #0062d9;}
+a:visited {color: #0062d9;}
+ul {margin: 0; padding: 0; list-style: none; float: left;}
 </style>
 </head>
-<body><span style="color: #0ff">Global Maps</span><a target="_blank"  href="https://github.com/hfu/globalmaps-vt-style/">🏭</a>
+<body><h2 style="color: #0ff"><a target="_blank"  href="https://github.com/hfu/globalmaps-vt-style/">QC Global Maps</a></h2><ul>
   EOS
   JSON::parse(File.read('list.json'))['list'].each {|r|
     create(r)
-    w.print "<a title='open in the right frame' target='right' href='#{r['id']}.html'>#{r['country']} #{r['version']}</a><a title='open in another tab' target='_blank' href='#{r['id']}.html'>🗺</a><a title='open the Global Map archives repository' target='_blank'  href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}'>🏭</a><a title='open issues (vt)' target='_blank'  href='http://github.com/globalmaps-vt/#{r['id']}/issues'>ℹ️</a><a title='download Shapefile data from the Global Map Archives' target='_blank' href='http://github.com/globalmaps/#{r['id'].sub(/vt$/, '')}/archive/master.zip'>📦</a>\n"
+    w.print "<li><input type='checkbox'/><a title='open in the right frame' target='right' href='#{r['id']}.html'>#{r['country']} #{r['version']}</a></li>\n"
   }
   w.print <<-EOS
-</body>
+</ul></body>
 </html>
   EOS
 }
