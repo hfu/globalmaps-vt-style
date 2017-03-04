@@ -530,9 +530,9 @@
     },
     {
       "id": "gmin10vt",
-      "country": "in",
+      "country": "India",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Survey of India",
       "center": [
         86.484375,
         25.163513,
@@ -541,9 +541,9 @@
     },
     {
       "id": "gmin20vt",
-      "country": "in",
+      "country": "India",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Survey of India",
       "center": [
         86.484375,
         25.163513,
@@ -552,9 +552,9 @@
     },
     {
       "id": "gmir10vt",
-      "country": "ir",
+      "country": "Iran",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "National Cartographic Center",
       "center": [
         51.328125,
         36.02928,
@@ -563,9 +563,9 @@
     },
     {
       "id": "gmir20vt",
-      "country": "ir",
+      "country": "Iran",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "National Cartographic Center",
       "center": [
         51.328125,
         36.02928,
@@ -574,9 +574,9 @@
     },
     {
       "id": "gmjo10vt",
-      "country": "jo",
+      "country": "Jordan",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Royal Jordanian Geographic Centre (RJGC)",
       "center": [
         35.859375,
         32.544857,
@@ -585,9 +585,9 @@
     },
     {
       "id": "gmjo20vt",
-      "country": "jo",
+      "country": "Jordan",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Royal Jordanian Geographic Centre (RJGC)",
       "center": [
         35.859375,
         32.544857,
@@ -596,9 +596,9 @@
     },
     {
       "id": "gmjp20vt",
-      "country": "jp",
+      "country": "Japan",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Geospatial Information Authority of Japan (GSI)",
       "center": [
         139.921875,
         36.02928,
@@ -607,9 +607,9 @@
     },
     {
       "id": "gmjp21vt",
-      "country": "jp",
+      "country": "Japan",
       "version": 2.1,
-      "ngia": "TBD",
+      "ngia": "Geosptial Information Authority of Japan (GSI)",
       "center": [
         139.921875,
         36.02928,
@@ -618,9 +618,9 @@
     },
     {
       "id": "gmjp22vt",
-      "country": "jp",
+      "country": "Japan",
       "version": 2.2,
-      "ngia": "TBD",
+      "ngia": "Geospatial Information Authority of Japan (GSI)",
       "center": [
         139.921875,
         36.02928,
@@ -629,9 +629,9 @@
     },
     {
       "id": "gmke10vt",
-      "country": "ke",
+      "country": "Kenya",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Survey of Kenya",
       "center": [
         37.265625,
         -0.703054,
@@ -640,9 +640,9 @@
     },
     {
       "id": "gmkg10vt",
-      "country": "kg",
+      "country": "Kyrgyzstan",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "State Service of Cartography and Geodesy of Kyrgyz Republic",
       "center": [
         73.828125,
         40.444817,
@@ -651,9 +651,9 @@
     },
     {
       "id": "gmkg20vt",
-      "country": "kg",
+      "country": "Kyrgyzstan",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "State Service of Cartography and Geodesy of Kyrgyz Republic",
       "center": [
         73.828125,
         40.444817,
@@ -662,9 +662,9 @@
     },
     {
       "id": "gmkz10vt",
-      "country": "kz",
+      "country": "Kazakhstan",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Scientific Technical Enterprise of Digital Cartography and GIS, The Committee for Management of Land Resources, Ministry of Agriculture (STE Kartinform)",
       "center": [
         76.640625,
         43.578236,
@@ -673,9 +673,9 @@
     },
     {
       "id": "gmla10vt",
-      "country": "la",
+      "country": "Laos",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "National Geographic Department, Prime Minister's Office",
       "center": [
         106.171875,
         14.603795,
@@ -684,9 +684,9 @@
     },
     {
       "id": "gmla20vt",
-      "country": "la",
+      "country": "Laos",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "National Geographic Department, Prime Minister's Office",
       "center": [
         104.765625,
         18.644938,
@@ -695,9 +695,9 @@
     },
     {
       "id": "gmlb10vt",
-      "country": "lb",
+      "country": "Lebanon",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Remote Sensing Center, National Council for Scientific Research",
       "center": [
         35.859375,
         33.722348,
@@ -706,9 +706,9 @@
     },
     {
       "id": "gmlb20vt",
-      "country": "lb",
+      "country": "Lebanon",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Remote Sensing Center, National Council for Scientific Research",
       "center": [
         35.859375,
         33.722348,
@@ -717,9 +717,9 @@
     },
     {
       "id": "gmlc10vt",
-      "country": "lc",
+      "country": "Saint Lucia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Survey and Mapping Department, Ministry of Physical Development",
       "center": [
         -61.078953,
         13.701385,
@@ -728,9 +728,9 @@
     },
     {
       "id": "gmlk10vt",
-      "country": "lk",
+      "country": "Sri Lanka",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Survey Department",
       "center": [
         80.859375,
         7.710418,
@@ -739,9 +739,9 @@
     },
     {
       "id": "gmlk20vt",
-      "country": "lk",
+      "country": "Sri Lanka",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Survey Department",
       "center": [
         80.859375,
         7.710418,
@@ -750,9 +750,9 @@
     },
     {
       "id": "gmlv10vt",
-      "country": "lv",
+      "country": "Latvia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Latvian Geospatial Information Agency",
       "center": [
         27.421875,
         56.168028,
@@ -761,9 +761,9 @@
     },
     {
       "id": "gmlv20vt",
-      "country": "lv",
+      "country": "Latvia",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Latvian Geospatial Information Agency",
       "center": [
         27.421875,
         56.168028,
@@ -772,9 +772,9 @@
     },
     {
       "id": "gmmd10vt",
-      "country": "md",
+      "country": "Moldova",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Agency for Land Relations and Cadastre",
       "center": [
         28.828125,
         47.515052,
@@ -783,9 +783,9 @@
     },
     {
       "id": "gmmk10vt",
-      "country": "mk",
+      "country": "Macedonia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Agency for Real Estate Cadastre, Republic of Macedonia",
       "center": [
         21.796875,
         41.506436,
@@ -794,9 +794,9 @@
     },
     {
       "id": "gmmk20vt",
-      "country": "mk",
+      "country": "Macedonia",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Agency for Real Estate Cadastre",
       "center": [
         21.796875,
         41.506436,
@@ -805,9 +805,9 @@
     },
     {
       "id": "gmml20vt",
-      "country": "ml",
+      "country": "Mali",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Geographic Institute of Mali (IGM)",
       "center": [
         -10.546875,
         14.603795,
@@ -816,9 +816,9 @@
     },
     {
       "id": "gmmm10vt",
-      "country": "mm",
+      "country": "Myanmar",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Survey Department",
       "center": [
         93.515625,
         19.971964,
@@ -827,9 +827,9 @@
     },
     {
       "id": "gmmn10vt",
-      "country": "mn",
+      "country": "Mongolia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "State Administration of Geodesy and Cartography",
       "center": [
         99.140625,
         51.177236,
@@ -838,9 +838,9 @@
     },
     {
       "id": "gmmn20vt",
-      "country": "mn",
+      "country": "Mongolia",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "State Administration of Geodesy and Cartography",
       "center": [
         99.140625,
         51.177236,
@@ -849,9 +849,9 @@
     },
     {
       "id": "gmmu10vt",
-      "country": "mu",
+      "country": "Mauritius",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Ministry of Housing and Lands",
       "center": [
         57.299152,
         -19.978117,
@@ -860,9 +860,9 @@
     },
     {
       "id": "gmmx10vt",
-      "country": "mx",
+      "country": "Mexico",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "INEGI",
       "center": [
         -99.140625,
         19.971964,
@@ -871,9 +871,9 @@
     },
     {
       "id": "gmmy10vt",
-      "country": "my",
+      "country": "Malaysia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Department of Survey and Mapping",
       "center": [
         101.953125,
         3.513157,
@@ -882,9 +882,9 @@
     },
     {
       "id": "gmmy20vt",
-      "country": "my",
+      "country": "Malaysia",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Department of Survey and Mapping",
       "center": [
         101.953125,
         3.513157,
@@ -893,9 +893,9 @@
     },
     {
       "id": "gmmz10vt",
-      "country": "mz",
+      "country": "Mozambique",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "CENACARTA",
       "center": [
         37.265625,
         -14.603795,
@@ -904,9 +904,9 @@
     },
     {
       "id": "gmmz20vt",
-      "country": "mz",
+      "country": "Mozambique",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "CENACARTA",
       "center": [
         37.265625,
         -14.603795,
@@ -915,9 +915,9 @@
     },
     {
       "id": "gmne10vt",
-      "country": "ne",
+      "country": "Niger",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Institute Geographic National of Niger (IGN.N)",
       "center": [
         2.109375,
         13.238984,
@@ -926,9 +926,9 @@
     },
     {
       "id": "gmne20vt",
-      "country": "ne",
+      "country": "Niger",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Institute Geographic National of Niger (IGN.N)",
       "center": [
         2.109375,
         13.238984,
