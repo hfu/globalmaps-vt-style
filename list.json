@@ -937,9 +937,9 @@
     },
     {
       "id": "gmni10vt",
-      "country": "ni",
+      "country": "Nicaragua",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "INETER",
       "center": [
         -85.078125,
         11.866483,
@@ -948,9 +948,9 @@
     },
     {
       "id": "gmni20vt",
-      "country": "ni",
+      "country": "Nicaragua",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "INETER",
       "center": [
         -85.078125,
         11.866483,
@@ -959,9 +959,9 @@
     },
     {
       "id": "gmnp10vt",
-      "country": "np",
+      "country": "Nepal",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Survey Department",
       "center": [
         85.078125,
         27.681753,
@@ -970,9 +970,9 @@
     },
     {
       "id": "gmnp20vt",
-      "country": "np",
+      "country": "Nepal",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Survey Department",
       "center": [
         85.078125,
         27.681753,
@@ -981,9 +981,9 @@
     },
     {
       "id": "gmnz10vt",
-      "country": "nz",
+      "country": "New Zealand",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Land Information New Zealand (LINZ)",
       "center": [
         175.078125,
         -37.15824,
@@ -992,9 +992,9 @@
     },
     {
       "id": "gmnz20vt",
-      "country": "nz",
+      "country": "New Zealand",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Land Information New Zealand (LINZ)",
       "center": [
         175.078125,
         -37.15824,
@@ -1003,9 +1003,9 @@
     },
     {
       "id": "gmom10vt",
-      "country": "om",
+      "country": "Oman",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "National Survey Authority",
       "center": [
         54.140625,
         17.307462,
@@ -1014,9 +1014,9 @@
     },
     {
       "id": "gmom20vt",
-      "country": "om",
+      "country": "Oman",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "National Survey Authority",
       "center": [
         54.140625,
         17.307462,
@@ -1025,9 +1025,9 @@
     },
     {
       "id": "gmpa10vt",
-      "country": "pa",
+      "country": "Panama",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Instituto Geografico Nacional Tommy Guardia",
       "center": [
         -80.859375,
         7.710418,
@@ -1036,9 +1036,9 @@
     },
     {
       "id": "gmpg10vt",
-      "country": "pg",
+      "country": "Papua New Guinea",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "National Mapping Bureau",
       "center": [
         146.953125,
         -9.101423,
@@ -1047,9 +1047,9 @@
     },
     {
       "id": "gmpg20vt",
-      "country": "pg",
+      "country": "Papua New Guinea",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "National Mapping Bureau",
       "center": [
         146.953125,
         -9.101423,
@@ -1058,9 +1058,9 @@
     },
     {
       "id": "gmph10vt",
-      "country": "ph",
+      "country": "the Philippines",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "National Mapping and Resource Information Authority",
       "center": [
         124.453125,
         7.710418,
@@ -1069,9 +1069,9 @@
     },
     {
       "id": "gmpk10vt",
-      "country": "pk",
+      "country": "Pakistan",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Survey of Pakistan",
       "center": [
         66.796875,
         26.429508,
@@ -1080,9 +1080,9 @@
     },
     {
       "id": "gmpk20vt",
-      "country": "pk",
+      "country": "Pakistan",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Survey of Pakistan",
       "center": [
         71.015625,
         32.544857,
@@ -1091,9 +1091,9 @@
     },
     {
       "id": "gmps10vt",
-      "country": "ps",
+      "country": "Palestine",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Geographic Center, Ministry of Planning",
       "center": [
         34.453125,
         31.35172,
@@ -1102,9 +1102,9 @@
     },
     {
       "id": "gmro10vt",
-      "country": "ro",
+      "country": "Romania",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "National Agency for Cadastre and Land Registration (NACLR)",
       "center": [
         26.015625,
         44.58831,
@@ -1113,9 +1113,9 @@
     },
     {
       "id": "gmro20vt",
-      "country": "ro",
+      "country": "Romania",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "National Agency for Cadastre and Land Registration (NACLR)",
       "center": [
         26.015625,
         44.58831,
@@ -1124,9 +1124,9 @@
     },
     {
       "id": "gmrs20vt",
-      "country": "rs",
+      "country": "Serbia",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Republic Geodetic Authority",
       "center": [
         20.390625,
         44.58831,
@@ -1135,9 +1135,9 @@
     },
     {
       "id": "gmsa10vt",
-      "country": "sa",
+      "country": "Saudi Arabia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "General Commission for Survey (GCS)",
       "center": [
         40.078125,
         22.592196,
@@ -1146,9 +1146,9 @@
     },
     {
       "id": "gmsa20vt",
-      "country": "sa",
+      "country": "Saudi Arabia",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "General Commission for Survey (GCS)",
       "center": [
         40.078125,
         22.592196,
@@ -1157,9 +1157,9 @@
     },
     {
       "id": "gmsainthelena20vt",
-      "country": "sainthelena",
+      "country": "Saint Helena",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "GIS Office, Property Division",
       "center": [
         -5.789838,
         -15.960188,
@@ -1168,9 +1168,9 @@
     },
     {
       "id": "gmsd10vt",
-      "country": "sd",
+      "country": "Sudan",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Sudan National Survey Corporation",
       "center": [
         33.046875,
         14.603795,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "gmsg10vt",
-      "country": "sg",
+      "country": "Singapore",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "MINDEF Public Affairs",
       "center": [
         103.605781,
         1.16632,
@@ -1190,9 +1190,9 @@
     },
     {
       "id": "gmsn10vt",
-      "country": "sn",
+      "country": "Senegal",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "DTGC",
       "center": [
         -13.359375,
         13.238984,
@@ -1201,9 +1201,9 @@
     },
     {
       "id": "gmsn20vt",
-      "country": "sn",
+      "country": "Senegal",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "DTGC",
       "center": [
         -13.359375,
         13.238984,
@@ -1212,9 +1212,9 @@
     },
     {
       "id": "gmsv20vt",
-      "country": "sv",
+      "country": "El Salvador",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Centro Nacional de Registros",
       "center": [
         -89.296875,
         13.238984,
@@ -1223,9 +1223,9 @@
     },
     {
       "id": "gmsy10vt",
-      "country": "sy",
+      "country": "Syria",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "General Organization of Remote Sensing (GORS)",
       "center": [
         37.265625,
         36.02928,
@@ -1234,9 +1234,9 @@
     },
     {
       "id": "gmsz10vt",
-      "country": "sz",
+      "country": "Swaziland",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Surveyor General's Department",
       "center": [
         31.640625,
         -26.429508,
@@ -1245,9 +1245,9 @@
     },
     {
       "id": "gmsz20vt",
-      "country": "sz",
+      "country": "Swaziland",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Surveyor General's Department",
       "center": [
         31.640625,
         -26.429508,
@@ -1256,9 +1256,9 @@
     },
     {
       "id": "gmtg20vt",
-      "country": "tg",
+      "country": "Togo",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Direction General of Cartography (DGC)",
       "center": [
         0.703125,
         9.101423,
@@ -1267,9 +1267,9 @@
     },
     {
       "id": "gmth10vt",
-      "country": "th",
+      "country": "Thailand",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Royal Thai Survey Department",
       "center": [
         100.546875,
         14.603795,
@@ -1278,9 +1278,9 @@
     },
     {
       "id": "gmtn10vt",
-      "country": "tn",
+      "country": "Tunisia",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Office de la Topographie et de la Cartographie",
       "center": [
         9.140625,
         36.02928,
@@ -1289,9 +1289,9 @@
     },
     {
       "id": "gmtristandacunha10vt",
-      "country": "tristandacunha",
+      "country": "Tristan da Cunha",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Administrator",
       "center": [
         -11.953125,
         -37.15824,
@@ -1300,9 +1300,9 @@
     },
     {
       "id": "gmus10vt",
-      "country": "us",
+      "country": "United States",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "United States Geological Survey (USGS)",
       "center": [
         -76.640625,
         39.366164,
@@ -1311,9 +1311,9 @@
     },
     {
       "id": "gmus20vt",
-      "country": "us",
+      "country": "United States",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "United States Geological Survey (USGS)",
       "center": [
         -80.859375,
         32.544857,
@@ -1322,9 +1322,9 @@
     },
     {
       "id": "gmuy10vt",
-      "country": "uy",
+      "country": "Uruguay",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Geographic Miliatry Service",
       "center": [
         -56.953125,
         -32.544857,
@@ -1333,9 +1333,9 @@
     },
     {
       "id": "gmuy20vt",
-      "country": "uy",
+      "country": "Uruguay",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Geographic Miliatry Service",
       "center": [
         -54.140625,
         -33.722348,
@@ -1344,9 +1344,9 @@
     },
     {
       "id": "gmvc10vt",
-      "country": "vc",
+      "country": "Saint Vincent and the Grenadines",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Lands and Surveys Department",
       "center": [
         -61.171875,
         13.238984,
@@ -1355,9 +1355,9 @@
     },
     {
       "id": "gmvc20vt",
-      "country": "vc",
+      "country": "Saint Vincent and the Grenadines",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Lands and Surveys Department",
       "center": [
         -61.171875,
         13.238984,
@@ -1366,9 +1366,9 @@
     },
     {
       "id": "gmvn10vt",
-      "country": "vn",
+      "country": "Viet Nam",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Department of Survey and Mapping",
       "center": [
         106.171875,
         21.287915,
@@ -1377,9 +1377,9 @@
     },
     {
       "id": "gmvn20vt",
-      "country": "vn",
+      "country": "Viet Nam",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Department of Survey and Mapping",
       "center": [
         106.171875,
         21.287915,
@@ -1388,9 +1388,9 @@
     },
     {
       "id": "gmws10vt",
-      "country": "ws",
+      "country": "Samoa",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Ministry of Natural Resources and Environment",
       "center": [
         -172.265625,
         -13.438966,
@@ -1399,9 +1399,9 @@
     },
     {
       "id": "gmxk20vt",
-      "country": "xk",
+      "country": "Kosovo",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Kosovo Cadastral Agency",
       "center": [
         20.390625,
         42.550931,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "gmza10vt",
-      "country": "za",
+      "country": "South Africa",
       "version": 1.0,
-      "ngia": "TBD",
+      "ngia": "Chief Directorate of National Geo-spatial Information",
       "center": [
         28.828125,
         -26.429508,
@@ -1421,9 +1421,9 @@
     },
     {
       "id": "gmza20vt",
-      "country": "za",
+      "country": "South Africa",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Chief Directorate of National Geo-spatial Information",
       "center": [
         28.828125,
         -26.429508,
@@ -1432,9 +1432,9 @@
     },
     {
       "id": "gmzanzibar20vt",
-      "country": "zanzibar",
+      "country": "Zanzibar",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Department of Surveys and Mapping",
       "center": [
         39.876091,
         -4.915464,
@@ -1443,9 +1443,9 @@
     },
     {
       "id": "gmzm20vt",
-      "country": "zm",
+      "country": "Zambia",
       "version": 2.0,
-      "ngia": "TBD",
+      "ngia": "Survey Department",
       "center": [
         31.640625,
         -13.238984,
