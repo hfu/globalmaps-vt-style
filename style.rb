@@ -41,7 +41,7 @@ def create(params)
       'id' => "pg#{r[0]}",
       'type' => 'fill',
       'source' => params['id'],
-      'source-layer' => r[0],
+      'source-layer' => "pg#{r[0]}",
       'paint' => {
         'fill-color' => r[1],
         'fill-opacity' => r[2].to_f
@@ -70,7 +70,7 @@ def create(params)
       :id => "ls#{r[0]}",
       :type => :line,
       :source => params['id'],
-      'source-layer' => r[0],
+      'source-layer' => "ls#{r[0]}",
       :minzoom => 0,
       :maxzoom => 20,
       :layout => {
@@ -106,7 +106,7 @@ def create(params)
       'id' => "pt#{r[0]}",
       'type' => 'symbol',
       'source' => params['id'],
-      'source-layer' => r[0],
+      'source-layer' => "pt#{r[0]}",
       'paint' => {
         'text-color' => r[2] ? r[2] : '#bbb',
       },
