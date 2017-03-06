@@ -1,6 +1,8 @@
 # globalmaps-vt-style
 style.json for globalmaps-vt
 ## The workflow
+Explained at https://speakerdeck.com/hfu/qc-global-maps
+
 1. 左ペーンから作業対象の地球地図を選ぶ
 2. new tab で新しいタブで地球地図を開く
 3. データエラーを見つける
