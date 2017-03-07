@@ -254,6 +254,17 @@
       ]
     },
     {
+      "id": "gmca22vt",
+      "country": "Canada",
+      "version": 2.2,
+      "ngia": "Natural Resources Canada",
+      "center": [
+        -87.890625,
+        52.906827,
+        8.0
+      ]
+    },
+    {
       "id": "gmcd10vt",
       "country": "Democratic Republic of Congo",
       "version": 1.0,
@@ -419,6 +430,17 @@
       ]
     },
     {
+      "id": "gmeu90vt",
+      "country": "Europe",
+      "version": 9.0,
+      "ngia": "EuroGeographics",
+      "center": [
+        28.828125,
+        61.93716,
+        8.0
+      ]
+    },
+    {
       "id": "gmge10vt",
       "country": "Georgia",
       "version": 1.0,
@@ -492,6 +514,17 @@
       "center": [
         114.502443,
         22.56833,
+        8.0
+      ]
+    },
+    {
+      "id": "gmhk20vt",
+      "country": "Hong Kong",
+      "version": 2.0,
+      "ngia": "Lands Department, the Government of the Hong Kong SAR",
+      "center": [
+        114.441971,
+        22.56194,
         8.0
       ]
     },
