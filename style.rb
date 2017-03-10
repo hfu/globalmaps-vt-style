@@ -1,4 +1,5 @@
 require 'json'
+MAX_ZOOM = 9
 
 def create(params)
   template = {
@@ -10,7 +11,7 @@ def create(params)
         :type => 'vector',
         :tiles => ["https://globalmaps-vt.github.io/#{params['id']}/{z}/{x}/{y}.mvt"],
         :minzoom => 0,
-        :maxzoom => 8,
+        :maxzoom => MAX_ZOOM,
         :attribution => "Global Map #{params['country']} #{params['version']} by #{params['ngia']}"
       }
     },
