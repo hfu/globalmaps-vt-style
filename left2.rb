@@ -30,17 +30,26 @@ File.open('globalmaps.tag', 'w') {|w|
     {
       :id => v['id'],
       :country => v['country'],
-      :version => v['version']
+      :version => v['version'],
+      :issues => 'loading'
     }
   }
   w.print <<-EOS
   <globalmaps>
     <ul>
-      <li each={ countries }><input type='checkbox'/><a title='open in the right frame' target='right' href='{ id }.html'>{ country } { version }</a></li>
+      <globalmap each={ countries } id={ id } country={ country } version={ version } issues={ issues }></globalmap>
     </ul>
     <script>
       this.countries = #{JSON::dump(countries)}
     </script>
   </globalmaps>
+
+  <globalmap>
+    <li id='{ id }'><input type='checkbox'/><a title='open in the right frame' target='right' href='{ id }.html'>{ country } { version }</a> { issues }</li>
+    <script>
+      var self = this
+      fetch('https://api.github.com/repos/globalmaps-vt/' + self.id + '/issues?access_token=8b43c94857c0b73158c0168e09d64a1618557806').then(function(data){return data.json()}).then(function(json) {self.issues = json.length + ' issues'; self.update()})
+    </script>
+  </globalmap>
   EOS
 }
