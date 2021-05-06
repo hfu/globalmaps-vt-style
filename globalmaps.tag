@@ -11,6 +11,6 @@
     <li id='{ id }'><input type='checkbox'/><a title='open in the right frame' target='right' href='{ id }.html'>{ country } { version }</a> { issues }</li>
     <script>
       var self = this
-      fetch('https://api.github.com/repos/globalmaps-vt/' + self.id + '/issues?access_token=8b43c94857c0b73158c0168e09d64a1618557806').then(function(data){return data.json()}).then(function(json) {self.issues = json.length + ' issues'; self.update()})
+      fetch('https://api.github.com/repos/globalmaps-vt/' + self.id + '/issues').then(function(data){return data.json()}).then(function(json) {self.issues = json.length + ' issues'; self.update()})
     </script>
   </globalmap>
